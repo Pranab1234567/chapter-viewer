@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Next.js",
+    "content": "Next.js is a React framework with hybrid static & server rendering."
+  },
+  {
+    "id": 2,
+    "title": "Routing in Next.js",
+    "content": "Next.js uses file-based routing system with dynamic routes support."
+  }
+]
