@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Next.js",
+    "content": "Next.js is a React framework for production."
+  },
+  {
+    "id": 2,
+    "title": "Routing in Next.js",
+    "content": "Next.js uses file-system based routing."
+  }
+]
